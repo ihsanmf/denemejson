@@ -1,0 +1,19 @@
+[
+  {
+    "protokol": 00000001,
+    "name": "İhsan",
+   
+  },
+  {
+    "protokol": 00000002,
+    "name": "Eminullah",
+   },
+  {
+    "protokol": 00000003,
+    "name": "Oktay",
+  },
+  {
+    "protokol": 00000004,
+    "name": "Süleyman",
+  },
+]
