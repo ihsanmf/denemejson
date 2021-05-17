@@ -1,23 +1,19 @@
 [
   {
     "id" : 1,
-    "protokol":00000001,
     "name": "İhsan",
    
   },
   {
     "id" : 2,
-    "protokol":00000002,
     "name": "Eminullah",
    },
   {
     "id" : 3,
-    "protokol":00000003,
     "name": "Oktay",
   },
   {
     "id" : 4,
-    "protokol":00000004,
     "name": "Süleyman",
   },
 ]
